@@ -1,0 +1,17 @@
+nflows
+matplotlib
+numpy
+scipy
+scikit-learn
+tqdm
+numpy
+tensorboard
+torch
+autoflake
+black
+flake8
+isort
+pytest
+pyyaml
+torchtestcase
+umnn
