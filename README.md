@@ -138,7 +138,3 @@ calibrated_pits = results["all_calibrated_cdfs"]  # (P, T)
 | `rolling_window_size` | Window of recent PITs used for detection |
 
 ---
-
-## Author
-
-**Callum Wu**, Department of Statistical Science, University College London
